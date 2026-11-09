@@ -7,6 +7,7 @@ A high-performance Manifest V3 Chrome extension that filters unwanted Instagram 
 
 *Note: This repository serves as the official issue tracker, documentation hub, and community blocklist exchange for Nukarama. The core extension is closed-source to protect the proprietary microtask interception engine.*
 
+
 ## Privacy & Security
 
 Nukarama requires host permissions for `instagram.com` to evaluate captions and video nodes. 
@@ -55,3 +56,7 @@ If you encounter an edge case where a post slips through or a layout shifts unex
 * The type of post (Feed or Reel).
 * The specific browser version.
 * A description of the behavior.
+
+### License & Usage
+Copyright © 2026 Nukarama. All Rights Reserved.
+This repository is source-available solely for security auditing and transparency. Commercial use, modification, and redistribution are strictly prohibited without written permission.
